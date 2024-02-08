@@ -1,0 +1,12 @@
+*.pt
+__pycache__
+*.pickle
+*.out
+*.job
+*.sh
+*.png
+.DS_Store
+.vscode
+experiments/runs
+experiments/img
+parallel_experiments_scripts
